@@ -1066,6 +1066,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot
   Programmer]
+- [Saddam Anwar](https://portfolio-pearl-pi-40.vercel.app/) [Full Stack MERN & Next.js Developer]
 
 ## T
 
